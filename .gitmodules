@@ -1,0 +1,3 @@
+[submodule "sub-repository"]
+	path = sub-repository
+	url = git@github.com:lukangdii/sub-repository.git
